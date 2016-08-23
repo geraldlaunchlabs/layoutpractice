@@ -7,6 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6047C6211D6AB44D00AAE5B1 /* airbnblogo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6047C6201D6AB44D00AAE5B1 /* airbnblogo.jpg */; };
+		6047C6231D6ABEB900AAE5B1 /* heart.png in Resources */ = {isa = PBXBuildFile; fileRef = 6047C6221D6ABEB900AAE5B1 /* heart.png */; };
+		6047C62F1D6AC57100AAE5B1 /* mail.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6047C62E1D6AC57100AAE5B1 /* mail.jpg */; };
+		6047C6331D6AC7A600AAE5B1 /* briefcase.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6047C6321D6AC7A600AAE5B1 /* briefcase.jpg */; };
+		6047C6351D6AC9BC00AAE5B1 /* profile.png in Resources */ = {isa = PBXBuildFile; fileRef = 6047C6341D6AC9BC00AAE5B1 /* profile.png */; };
 		60639D661D66EE51001B5A76 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 60639D651D66EE51001B5A76 /* main.m */; };
 		60639D691D66EE51001B5A76 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 60639D681D66EE51001B5A76 /* AppDelegate.m */; };
 		60639D6C1D66EE51001B5A76 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 60639D6B1D66EE51001B5A76 /* ViewController.m */; };
@@ -17,7 +22,6 @@
 		60639D821D66EE51001B5A76 /* LayoutPracticeTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 60639D811D66EE51001B5A76 /* LayoutPracticeTests.m */; };
 		60639D8D1D66EE51001B5A76 /* LayoutPracticeUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 60639D8C1D66EE51001B5A76 /* LayoutPracticeUITests.m */; };
 		60639D9B1D67079F001B5A76 /* image1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 60639D9A1D67079F001B5A76 /* image1.jpg */; };
-		60639D9D1D670AB3001B5A76 /* bulba.png in Resources */ = {isa = PBXBuildFile; fileRef = 60639D9C1D670AB3001B5A76 /* bulba.png */; };
 		60639D9F1D670F93001B5A76 /* image2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 60639D9E1D670F93001B5A76 /* image2.jpg */; };
 /* End PBXBuildFile section */
 
@@ -39,6 +43,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		6047C6201D6AB44D00AAE5B1 /* airbnblogo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = airbnblogo.jpg; sourceTree = "<group>"; };
+		6047C6221D6ABEB900AAE5B1 /* heart.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = heart.png; sourceTree = "<group>"; };
+		6047C62E1D6AC57100AAE5B1 /* mail.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mail.jpg; sourceTree = "<group>"; };
+		6047C6321D6AC7A600AAE5B1 /* briefcase.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = briefcase.jpg; sourceTree = "<group>"; };
+		6047C6341D6AC9BC00AAE5B1 /* profile.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = profile.png; sourceTree = "<group>"; };
 		60639D611D66EE51001B5A76 /* LayoutPractice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LayoutPractice.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		60639D651D66EE51001B5A76 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		60639D671D66EE51001B5A76 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -57,7 +66,6 @@
 		60639D8C1D66EE51001B5A76 /* LayoutPracticeUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LayoutPracticeUITests.m; sourceTree = "<group>"; };
 		60639D8E1D66EE51001B5A76 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		60639D9A1D67079F001B5A76 /* image1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image1.jpg; sourceTree = "<group>"; };
-		60639D9C1D670AB3001B5A76 /* bulba.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bulba.png; sourceTree = "<group>"; };
 		60639D9E1D670F93001B5A76 /* image2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image2.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -89,9 +97,13 @@
 		60639D581D66EE51001B5A76 = {
 			isa = PBXGroup;
 			children = (
+				6047C6341D6AC9BC00AAE5B1 /* profile.png */,
+				6047C6321D6AC7A600AAE5B1 /* briefcase.jpg */,
+				6047C62E1D6AC57100AAE5B1 /* mail.jpg */,
+				6047C6221D6ABEB900AAE5B1 /* heart.png */,
+				6047C6201D6AB44D00AAE5B1 /* airbnblogo.jpg */,
 				60639D9A1D67079F001B5A76 /* image1.jpg */,
 				60639D9E1D670F93001B5A76 /* image2.jpg */,
-				60639D9C1D670AB3001B5A76 /* bulba.png */,
 				60639D631D66EE51001B5A76 /* LayoutPractice */,
 				60639D801D66EE51001B5A76 /* LayoutPracticeTests */,
 				60639D8B1D66EE51001B5A76 /* LayoutPracticeUITests */,
@@ -255,12 +267,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6047C6231D6ABEB900AAE5B1 /* heart.png in Resources */,
+				6047C6211D6AB44D00AAE5B1 /* airbnblogo.jpg in Resources */,
 				60639D771D66EE51001B5A76 /* LaunchScreen.storyboard in Resources */,
 				60639D9B1D67079F001B5A76 /* image1.jpg in Resources */,
+				6047C62F1D6AC57100AAE5B1 /* mail.jpg in Resources */,
+				6047C6331D6AC7A600AAE5B1 /* briefcase.jpg in Resources */,
 				60639D741D66EE51001B5A76 /* Assets.xcassets in Resources */,
 				60639D6F1D66EE51001B5A76 /* Main.storyboard in Resources */,
+				6047C6351D6AC9BC00AAE5B1 /* profile.png in Resources */,
 				60639D9F1D670F93001B5A76 /* image2.jpg in Resources */,
-				60639D9D1D670AB3001B5A76 /* bulba.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -514,6 +530,7 @@
 				60639D931D66EE51001B5A76 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		60639D941D66EE51001B5A76 /* Build configuration list for PBXNativeTarget "LayoutPracticeTests" */ = {
 			isa = XCConfigurationList;
@@ -522,6 +539,7 @@
 				60639D961D66EE51001B5A76 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		60639D971D66EE51001B5A76 /* Build configuration list for PBXNativeTarget "LayoutPracticeUITests" */ = {
 			isa = XCConfigurationList;
@@ -530,6 +548,7 @@
 				60639D991D66EE51001B5A76 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
